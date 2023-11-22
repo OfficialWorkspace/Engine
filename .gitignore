@@ -1,0 +1,8 @@
+.local/
+odoo-server/
+
+# Ignore everything:
+*
+
+# Except for the custom directories:
+!custom/
